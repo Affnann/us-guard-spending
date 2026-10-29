@@ -1,0 +1,28 @@
+{
+  "title": "us-guard-spending: U.S. federal guard-service contracts (PSC S206), FY2008-FY2026",
+  "upload_type": "dataset",
+  "description": "<p>Every U.S. federal contract action coded product and service code S206 (Housekeeping - Guard) on USAspending.gov, from fiscal year 2008 to fiscal year 2026 (October 2007 to September 2026): 215,353 contract actions on 50,726 contracts, $79.3 billion in obligations, of which $15.8 billion was for work outside the United States. For each action it gives the date, amount, agency, recipient and parent company, place of performance, contract type and description. Yearly totals match USAspending's own published totals to the cent. Includes the original USAspending download, the cleaning and checking code, summary tables by year, country, agency and company (including Iraq and Afghanistan by year), and documentation.</p><p>Dataset: CC BY 4.0. Code: MIT. The original data are U.S. government works in the public domain.</p>",
+  "creators": [
+    {
+      "name": "Azom, Kazi Affnann",
+      "orcid": "0009-0001-5998-7642"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "private military and security companies",
+    "federal contracts",
+    "guard services",
+    "USAspending",
+    "Iraq",
+    "Afghanistan",
+    "immigration detention"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Affnann/us-guard-spending",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
