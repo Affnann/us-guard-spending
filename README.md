@@ -1,5 +1,7 @@
 # us-guard-spending
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23750992.svg)](https://doi.org/10.5281/zenodo.23750992)
+
 Every U.S. federal contract for guard services, fiscal years 2008 to 2026, cleaned and checked.
 
 ## What this project does
@@ -78,6 +80,9 @@ Code: MIT (see [`LICENSE`](LICENSE)). The clean dataset: CC BY 4.0. The original
 
 ## Cite
 
-Azom, Kazi Affnann (2026). *us-guard-spending: U.S. federal guard-service contracts (PSC S206), FY2008–FY2026*. GitHub. https://github.com/Affnann/us-guard-spending
+Azom, Kazi Affnann (2026). *us-guard-spending: U.S. federal guard-service contracts (PSC S206), FY2008-FY2026* (Version v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23750993
+
+- This version (v1.0.0): [10.5281/zenodo.23750993](https://doi.org/10.5281/zenodo.23750993)
+- All versions (always points to the latest): [10.5281/zenodo.23750992](https://doi.org/10.5281/zenodo.23750992)
 
 See also [`CITATION.cff`](CITATION.cff).
