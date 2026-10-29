@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23750992.svg)](https://doi.org/10.5281/zenodo.23750992)
 
+Published by [Mercenomics](https://mercenomics.org), an independent data archive on the business of force for hire.
+
 Every U.S. federal contract for guard services, fiscal years 2008 to 2026, cleaned and checked.
 
 ## What this project does
