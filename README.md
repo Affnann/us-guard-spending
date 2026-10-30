@@ -80,6 +80,10 @@ The data here were downloaded on October 29, 2026. USAspending adds late and cor
 
 Code: MIT (see [`LICENSE`](LICENSE)). The clean dataset: CC BY 4.0. The original data are U.S. government works from USAspending.gov and are in the public domain.
 
+## Used in
+
+Azom, Kazi Affnann (2026). "Who Bears the Risk of Privatized War? Troops, Contractors and Third-Country Nationals." Preprint. Zenodo. https://doi.org/10.5281/zenodo.23788239
+
 ## Cite
 
 Azom, Kazi Affnann (2026). *us-guard-spending: U.S. federal guard-service contracts (PSC S206), FY2008-FY2026* (Version v1.0.0) [Data set]. Mercenomics. https://doi.org/10.5281/zenodo.23750993
